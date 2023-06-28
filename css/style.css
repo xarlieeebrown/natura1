@@ -18,7 +18,7 @@
   --cyan: #17a2b8;
   --white: #fff;
   --gray: #6c757d;
-  --gray-dark: #343a40;
+  --gray-dark: #FFFBF2;
   --primary: #fc5d35;
   --secondary: #33211D;
   --success: #28a745;
@@ -9527,7 +9527,7 @@ h6,
 @media (max-width: 991.98px) {
   .container-fluid.nav-bar, .nav-bar.container-sm, .nav-bar.container-md, .nav-bar.container-lg, .nav-bar.container-xl {
     position: relative;
-    background: #33211D;
+    background: #f2f2f2;
   }
 }
 
@@ -9654,7 +9654,7 @@ h6,
 .page-header,
 .offer,
 .footer {
-  background: linear-gradient(rgba(51, 33, 29, 0.9), rgba(51, 33, 29, 0.9)), url(../img/bg.jpg);
+  background: linear-gradient(rgba(51, 33, 29, 0.8), rgba(51, 33, 29, 0.8)), url(../img/bg.jpg);
   background-position: top;
   background-repeat: no-repeat;
   background-size: cover;
